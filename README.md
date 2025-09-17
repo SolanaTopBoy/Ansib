@@ -1,1 +1,1 @@
-# Ansib
+# List of inventories
